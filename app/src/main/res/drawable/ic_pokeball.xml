@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+  <path
+      android:pathData="M32,32m-16,0a16,16 0,1 1,32 0a16,16 0,1 1,-32 0"
+      android:fillColor="#57565c"/>
+  <path
+      android:pathData="m62,32a30,30 0,0 1,-60 0h14a16,16 0,0 0,32 0z"
+      android:fillColor="#c6c5ca"/>
+  <path
+      android:pathData="M32,32m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0"
+      android:fillColor="#c6c5ca"/>
+  <path
+      android:pathData="m62,32h-14a16,16 0,0 0,-32 0h-14a30,30 0,0 1,60 0z"
+      android:fillColor="#d80027"/>
+  <path
+      android:pathData="M32,32m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0"
+      android:fillColor="#cca400"/>
+  <path
+      android:pathData="m32,1a31,31 0,1 0,31 31,31.035 31.035,0 0,0 -31,-31zM32,3a29.03,29.03 0,0 1,28.975 28h-11.975c-0.018,0 -0.033,0.009 -0.05,0.01a16.978,16.978 0,0 0,-33.9 0c-0.017,0 -0.032,-0.01 -0.05,-0.01h-11.975a29.03,29.03 0,0 1,28.975 -28zM47,32a15,15 0,1 1,-15 -15,15.017 15.017,0 0,1 15,15zM32,61a29.03,29.03 0,0 1,-28.975 -28h11.975c0.018,0 0.033,-0.009 0.05,-0.01a16.978,16.978 0,0 0,33.9 0c0.017,0 0.032,0.01 0.05,0.01h11.975a29.03,29.03 0,0 1,-28.975 28z"
+      android:fillColor="#231f20"/>
+  <path
+      android:pathData="m6.726,25.811a1,1 0,0 0,1.236 -0.687,24.788 24.788,0 0,1 0.961,-2.739 1,1 0,0 0,-1.846 -0.771,27.076 27.076,0 0,0 -1.039,2.961 1,1 0,0 0,0.688 1.236z"
+      android:fillColor="#231f20"/>
+  <path
+      android:pathData="m9.56,18.842a1,1 0,0 0,1.381 -0.3,24.927 24.927,0 0,1 21.059,-11.542 1,1 0,0 0,0 -2,26.921 26.921,0 0,0 -22.742,12.46 1,1 0,0 0,0.302 1.382z"
+      android:fillColor="#231f20"/>
+  <path
+      android:pathData="m32,21a11,11 0,1 0,11 11,11.013 11.013,0 0,0 -11,-11zM32,41a9,9 0,1 1,9 -9,9.01 9.01,0 0,1 -9,9z"
+      android:fillColor="#231f20"/>
+  <path
+      android:pathData="m32,28a4,4 0,1 0,4 4,4 4,0 0,0 -4,-4zM32,34a2,2 0,1 1,2 -2,2 2,0 0,1 -2,2z"
+      android:fillColor="#231f20"/>
+</vector>
